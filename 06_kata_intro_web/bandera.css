@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.padre{
+    width: 1000px;
+    height: 600px;
+    color: blueviolet;
+    border: 2px solid black;
+}
+
+.papa{
+height: 40%;
+width: 30%;
+border: 2px solid black;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.

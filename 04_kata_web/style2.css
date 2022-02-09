@@ -1,0 +1,34 @@
+body{
+    background-color: black
+}
+
+h1{
+    color: rgb(165, 2, 2);
+}
+
+h2{
+    color: rgb(165, 2, 2);
+
+}
+
+h3{
+    color: rgb(165, 2, 2);
+}
+li{
+    color: red;
+}
+p{
+    color: whitesmoke;
+}
+.firma{
+    background-color: white;
+    padding: 10px;
+}
+.vida{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+color: wheat;    
+}
